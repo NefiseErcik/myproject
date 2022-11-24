@@ -1,3 +1,3 @@
-public class Ogrenci {
-
+public class Ogrenci extends Kisiler{
+   private String okulNo;
 }
