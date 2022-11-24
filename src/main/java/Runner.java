@@ -8,6 +8,7 @@ public class Runner {
         ogretmen.setSoyIsim("ercik");
         ogretmen.setTcNo("26598745213");
         ogretmen.setDogumTarihi(1984);
+        ogretmen.setSicilNo("1253");
         System.out.println(ogretmen);
         System.out.println(ogretmen.getIsim());
 
